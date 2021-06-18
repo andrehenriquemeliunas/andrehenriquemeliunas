@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá!👋
 
-<!--
-**andrehenriquemeliunas/andrehenriquemeliunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André Henrique Meliunas, sou estudante na na ETEC Fernando Prestes em Informática para Internet. 
 
-Here are some ideas to get you started:
+Tenho 17 anos e busco ter novas experiências na área da tecnologia e aprender coisas novas,  sempre fui apaixonado por tecnologia e fazer disso a minha carreira é a realização de um sonho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Sobre
+- 📍 Sorocaba - SP
+- 🚀Apaixonado por tecnologia
+- 🏛 ETEC Fernando Prestes 
+- 🧡Desenvolvimento Web
+
+
+
+#### "Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo." 🧠
+[![Linkedin Badge](https://img.shields.io/badge/-André%20Meliunas-6633cc?style=flat-square&logo=Linkedin&logoColor=red=https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/)](https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/) 
