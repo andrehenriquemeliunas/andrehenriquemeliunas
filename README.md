@@ -5,7 +5,7 @@ Meu nome é André Henrique Meliunas, sou estudante na na ETEC Fernando Prestes 
 Tenho 17 anos e busco ter novas experiências na área da tecnologia e aprender coisas novas,  sempre fui apaixonado por tecnologia e fazer disso a minha carreira é a realização de um sonho.
 
 
-# Sobre
+# Sobre📚
 - 📍 Sorocaba - SP
 - 🚀Apaixonado por tecnologia
 - 🏛 ETEC Fernando Prestes 
