@@ -14,4 +14,5 @@ Tenho 17 anos e busco ter novas experiências na área da tecnologia e aprender 
 
 
 #### "Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo." 🧠
-[![Linkedin Badge](https://img.shields.io/badge/-André%20Meliunas-6633cc?style=flat-square&logo=Linkedin&logoColor=red=https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/)](https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/)](https://www.linkedin.com/in/andr%C3%A9-henrique-da-silva-meliunas-401598186/)
