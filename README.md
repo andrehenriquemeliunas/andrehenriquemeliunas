@@ -11,6 +11,7 @@ Tenho 18 anos e busco ter experiências na área da tecnologia e aprender coisas
 - 🏛 ETEC Fernando Prestes - Informática para Internet
 - 🏛 FACENS - Análise e Desenvolvimento de Sistemas
 - 🧡Desenvolvimento Web
+- 💻Front-End Developer
 
 
 
