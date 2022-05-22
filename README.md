@@ -12,6 +12,7 @@ Tenho 18 anos e busco ter experiências na área da tecnologia e aprender coisas
 - 🏛 FACENS - Análise e Desenvolvimento de Sistemas
 - 🧡Desenvolvimento Web
 - 💻Front-End Developer
+- 🤖Chatbot Developer - Chat2Desk BR
 
 
 
