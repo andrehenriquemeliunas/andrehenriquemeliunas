@@ -7,7 +7,6 @@ Tenho 19 anos e busco ter cada vez mais experiências na área da tecnologia e a
 
 # Sobre📚
 - 📍 Sorocaba - SP
-- 🚀Apaixonado por tecnologia
 - 🏛 ETEC Fernando Prestes - Informática para Internet - Concluído ✅
 - 🏛 FACENS - Análise e Desenvolvimento de Sistemas
 - 🤖Chatbot Developer
