@@ -2,7 +2,7 @@
 
 Meu nome é André Henrique Meliunas, fui estudante na ETEC Fernando Prestes, no curso de Informática para Internet, e atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas na FACENS.
 
-Tenho 19 anos e busco ter cada vez mais experiências na área da tecnologia e aprender coisas novas,  sempre fui apaixonado por tecnologia e fazer disso a minha carreira é a realização de um sonho.
+Tenho 20 anos e busco ter cada vez mais experiências na área da tecnologia e aprender coisas novas,  sempre fui apaixonado por tecnologia e fazer disso a minha carreira é a realização de um sonho.
 
 
 # Sobre📚
